@@ -12,6 +12,4 @@ while i <= 100:
     elif i % 5 == 0:
         print('Buzz')
         i += 1
-    elif i % (3 * 5) == 0:
-        print('FizzBuzz')
-        i += 1
+ 
